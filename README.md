@@ -33,5 +33,5 @@ To run the Resume Screening System locally, follow these steps:
 ## Team members:
 - Jothi Mangai(https://github.com/JothiMangai)
 - Madhumithaa B(https://github.com/Madhumithaa3)
-- Mohammed Aashiq(https://github.com/MohammedAashiq-Z)
+- Mohammed Aashiq Z(https://github.com/MohammedAashiq-Z)
 - Lakshmi Priya(https://github.com/LakshmiPriya1709)
