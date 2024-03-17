@@ -1,4 +1,4 @@
-# Resume Screening System using Machine Learning
+# HIREOHERO : Resume Screening System using Machine Learning
 
 Welcome to the Resume Screening System project! This system is designed to help automate the process of screening resumes for job postings using machine learning techniques.
 
@@ -6,10 +6,7 @@ Welcome to the Resume Screening System project! This system is designed to help 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
