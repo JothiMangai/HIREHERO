@@ -6,6 +6,7 @@ Welcome to the Resume Screening System project! This system is designed to help 
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Team Members](#teammembers)
 
 
 ## Introduction
@@ -28,3 +29,9 @@ To run the Resume Screening System locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/resume-screening.git
+
+## Team members:
+- Jothi Mangai(https://github.com/JothiMangai)
+- Madhumithaa B(https://github.com/Madhumithaa3)
+- Mohammed Aashiq(https://github.com/MohammedAashiq-Z)
+- Lakshmi Priya(https://github.com/LakshmiPriya1709)
