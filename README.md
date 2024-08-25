@@ -1,4 +1,4 @@
-# HIREOHERO : Resume Screening System using Machine Learning
+# HIREOHERO : Resume Screening System using Python
 
 Welcome to the Resume Screening System project! This system is designed to help automate the process of screening resumes for job postings using machine learning techniques.
 
